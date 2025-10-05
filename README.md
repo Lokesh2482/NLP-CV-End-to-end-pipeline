@@ -1,11 +1,3 @@
-Looking at your repository structure, I can see you have two Jupyter notebooks:
-- `NeoBert_Test.ipynb` - NLP module
-- `best_scoring_model.ipynb` - CV module
-
-Here's an updated README that reflects your actual implementation:
-
----
-
 # Pokemon Tactical Strike - AI Targeting System
 
 A multi-modal AI pipeline combining Natural Language Processing and Computer Vision for intelligent target classification and localization in battlefield scenarios.
